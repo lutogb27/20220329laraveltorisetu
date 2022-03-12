@@ -156,9 +156,6 @@ php artisan make:controller ContactController
 ### 14-12.ビューの作成[想定作業時間:240分]
 
 - [ ] "laravel_todolist/resources/views/"ディレクトリに"todo_list.blade.php"というファイルを作成する。
-- [ ] "todo_create.blade.php"というファイルも作成する。
-- [ ] "todo_edit.blade.php"というファイルを作成する。
-
 
 ### 14-12.動作確認[想定作業時間:180分]
 
